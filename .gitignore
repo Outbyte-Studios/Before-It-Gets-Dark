@@ -1,0 +1,13 @@
+.DS_Store/
+.Trahes/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+sysinfo.txt
+*.stachdump
+.vscode/
