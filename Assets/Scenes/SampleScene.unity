@@ -678,7 +678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  jump: 1
+  jump: 8
   cameraSpeed: 7
   renderer: {fileID: 2012000257}
   rigidbody: {fileID: 609700611}

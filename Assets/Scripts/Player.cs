@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour {
-    public float speed = 500.0f;
-    public float jump = 5.0f;
+    public float speed = 51000.0f;
+    public float jump = 8.0f;
     public float cameraSpeed = 7.0f;
     public SpriteRenderer renderer;
     public Rigidbody2D rigidbody;

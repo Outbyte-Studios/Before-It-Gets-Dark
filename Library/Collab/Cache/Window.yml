@@ -14,9 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts/Player.cs
+    - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 01
-  RevisionSummary: vulkan
+    m_Values: 00000000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
